@@ -1,0 +1,10 @@
+C:\Users\Adem\Desktop\strnç\Satranc\Satranc\bin\Debug\Satranc.exe.config
+C:\Users\Adem\Desktop\strnç\Satranc\Satranc\bin\Debug\Satranc.exe
+C:\Users\Adem\Desktop\strnç\Satranc\Satranc\bin\Debug\Satranc.pdb
+C:\Users\Adem\Desktop\strnç\Satranc\Satranc\obj\Debug\Satranc.csproj.AssemblyReference.cache
+C:\Users\Adem\Desktop\strnç\Satranc\Satranc\obj\Debug\Satranc.Form1.resources
+C:\Users\Adem\Desktop\strnç\Satranc\Satranc\obj\Debug\Satranc.Properties.Resources.resources
+C:\Users\Adem\Desktop\strnç\Satranc\Satranc\obj\Debug\Satranc.csproj.GenerateResource.cache
+C:\Users\Adem\Desktop\strnç\Satranc\Satranc\obj\Debug\Satranc.csproj.CoreCompileInputs.cache
+C:\Users\Adem\Desktop\strnç\Satranc\Satranc\obj\Debug\Satranc.exe
+C:\Users\Adem\Desktop\strnç\Satranc\Satranc\obj\Debug\Satranc.pdb
